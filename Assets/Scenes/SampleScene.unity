@@ -131,7 +131,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 67132478}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: weapon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -235,7 +235,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!212 &138439467
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -449,7 +449,7 @@ GameObject:
   - component: {fileID: 325915203}
   - component: {fileID: 325915206}
   - component: {fileID: 325915205}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5482,7 +5482,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 351539803}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: weapon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5659,7 +5659,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!61 &434633557
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5863,7 +5863,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!114 &514106292
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6165,7 +6165,7 @@ GameObject:
   - component: {fileID: 850838938}
   - component: {fileID: 850838940}
   - component: {fileID: 850838939}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: orb
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6364,7 +6364,7 @@ GameObject:
   - component: {fileID: 903497686}
   - component: {fileID: 903497685}
   - component: {fileID: 903497687}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: orb
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6794,7 +6794,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!58 &1284864734
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -29490,7 +29490,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!61 &1907032794
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -34702,9 +34702,9 @@ GameObject:
   - component: {fileID: 2004427356}
   - component: {fileID: 2004427358}
   - component: {fileID: 2004427357}
-  - component: {fileID: 2004427360}
   - component: {fileID: 2004427359}
-  m_Layer: 0
+  - component: {fileID: 2004427360}
+  m_Layer: 3
   m_Name: 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
